@@ -1,0 +1,889 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BaiTapLonC#Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiTapLonC#Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\css\\templatemo-hexashop.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-hexashop.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\Berlin Sans FB Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Berlin Sans FB Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\Black T-Shirt.webp",
+      "PackagePath": "staticwebassets\\images\\Black T-Shirt.webp"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\Camera.jpeg",
+      "PackagePath": "staticwebassets\\images\\Camera.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\Short Skirt.jpg",
+      "PackagePath": "staticwebassets\\images\\Short Skirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\about-left-image.jpg",
+      "PackagePath": "staticwebassets\\images\\about-left-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\about-us-page-heading.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\background.jpg",
+      "PackagePath": "staticwebassets\\images\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\baner-right-image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\baner-right-image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\baner-right-image-03.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\baner-right-image-04.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\images\\banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\images\\call-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\computer-img.png",
+      "PackagePath": "staticwebassets\\images\\computer-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\dress-shirt-img.png",
+      "PackagePath": "staticwebassets\\images\\dress-shirt-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\earring.webp",
+      "PackagePath": "staticwebassets\\images\\earring.webp"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\explore-image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\explore-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\explore-image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\explore-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\flag-france.png",
+      "PackagePath": "staticwebassets\\images\\flag-france.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\flag-uk.png",
+      "PackagePath": "staticwebassets\\images\\flag-uk.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\gameconsoles.webp",
+      "PackagePath": "staticwebassets\\images\\gameconsoles.webp"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\hair.webp",
+      "PackagePath": "staticwebassets\\images\\hair.webp"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\instagram-01.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\instagram-02.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\instagram-03.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\instagram-04.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\instagram-05.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\instagram-06.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\jhumka-img.png",
+      "PackagePath": "staticwebassets\\images\\jhumka-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\kangan-img.png",
+      "PackagePath": "staticwebassets\\images\\kangan-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\kid-01.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\kid-02.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\kid-03.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\kid-04.png",
+      "PackagePath": "staticwebassets\\images\\kid-04.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\laptop-img.png",
+      "PackagePath": "staticwebassets\\images\\laptop-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\left-banner-image.jpg",
+      "PackagePath": "staticwebassets\\images\\left-banner-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\long-sleeved shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\long-sleeved shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\images\\mail-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\images\\map-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\men-01.jpg",
+      "PackagePath": "staticwebassets\\images\\men-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\men-02.jpg",
+      "PackagePath": "staticwebassets\\images\\men-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\men-03.jpg",
+      "PackagePath": "staticwebassets\\images\\men-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\men-04.png",
+      "PackagePath": "staticwebassets\\images\\men-04.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\mobile-img.png",
+      "PackagePath": "staticwebassets\\images\\mobile-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\neklesh-img.png",
+      "PackagePath": "staticwebassets\\images\\neklesh-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\products-page-heading.jpg",
+      "PackagePath": "staticwebassets\\images\\products-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\q3.jpg",
+      "PackagePath": "staticwebassets\\images\\q3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\service-01.jpg",
+      "PackagePath": "staticwebassets\\images\\service-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\service-02.jpg",
+      "PackagePath": "staticwebassets\\images\\service-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\service-03.jpg",
+      "PackagePath": "staticwebassets\\images\\service-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\single-product-01.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\single-product-02.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\tablet.avif",
+      "PackagePath": "staticwebassets\\images\\tablet.avif"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\team-member-01.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\team-member-02.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\team-member-03.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\toggle-icon.png",
+      "PackagePath": "staticwebassets\\images\\toggle-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\tshirt-img.png",
+      "PackagePath": "staticwebassets\\images\\tshirt-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\user-icon.png",
+      "PackagePath": "staticwebassets\\images\\user-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\vong.webp",
+      "PackagePath": "staticwebassets\\images\\vong.webp"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\images\\white-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\women-01.jpg",
+      "PackagePath": "staticwebassets\\images\\women-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\women-02.jpg",
+      "PackagePath": "staticwebassets\\images\\women-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\women-03.jpg",
+      "PackagePath": "staticwebassets\\images\\women-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\women-04.png",
+      "PackagePath": "staticwebassets\\images\\women-04.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\images\\women-clothes-img.png",
+      "PackagePath": "staticwebassets\\images\\women-clothes-img.png"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\products.js",
+      "PackagePath": "staticwebassets\\js\\products.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\quantity.js",
+      "PackagePath": "staticwebassets\\js\\quantity.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DƯƠNG VĂN SỰ\\source\\repos\\BaiTapLonC#Web\\BaiTapLonC#Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BaiTapLonC#Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BaiTapLonC#Web.props",
+      "PackagePath": "build\\BaiTapLonC#Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiTapLonC#Web.props",
+      "PackagePath": "buildMultiTargeting\\BaiTapLonC#Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BaiTapLonC#Web.props",
+      "PackagePath": "buildTransitive\\BaiTapLonC#Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

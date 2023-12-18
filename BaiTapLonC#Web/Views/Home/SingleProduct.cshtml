@@ -1,0 +1,164 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+    <div class="page-heading" id="top">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="inner-content">
+                        <h2>Single Product Page</h2>
+                        <span>Created by Tony</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+       
+
+    <!-- ***** Product Area Starts ***** -->
+    <section class="section" id="product">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="left-images">
+                        <img id ="image"src="images/single-product-01.jpg" alt="">
+                        @*<img src="images/single-product-02.jpg" alt="">*@
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="right-content">
+                        <h4 id="name"></h4>
+                        <span id="price"></span>
+                        <ul class="stars">
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                            <li><i class="fa fa-star"></i></li>
+                        </ul>
+                        <span id="description"></span>
+                        <div class="quote">
+                            <!-- <i class="fa fa-quote-left"></i><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiuski smod.</p> -->
+                        </div>
+                        <div class="quantity-content">
+                            <div class="left-content">
+                                <h6>No. of Orders</h6>
+                            </div>
+                            <div class="right-content">
+                                <div class="quantity buttons_added">
+                                    <input type="button" value="-" class="minus" id="minus">
+                                    <input type="number" step="1" min="1" max="" name="quantity" value="1" title="Qty" id="quantity"
+                                           class="input-text qty text" size="4" pattern="" inputmode="">
+                                    <input type="button" value="+" class="plus" id="plus">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="total">
+                            <h4 id="total"></h4>
+                            <div class="main-border-button"><a href="#">Add To Cart</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Product Area Ends ***** -->
+    <!-- ***** Footer Start ***** -->
+   
+
+
+    <!-- jQuery -->
+    <script src="js/jquery-2.1.0.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="js/popper.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="js/owl-carousel.js"></script>
+    <script src="js/accordions.js"></script>
+    <script src="js/datepicker.js"></script>
+    <script src="js/scrollreveal.min.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    <script src="js/imgfix.min.js"></script>
+    <script src="js/slick.js"></script>
+    <script src="js/lightbox.js"></script>
+    <script src="js/isotope.js"></script>
+    <script src="js/quantity.js"></script>
+
+    <!-- Global Init -->
+    <script src="js/custom.js"></script>
+
+    <script>
+
+        $(function () {
+            var selectedClass = "";
+            $("p").click(function () {
+                selectedClass = $(this).attr("data-rel");
+                $("#portfolio").fadeTo(50, 0.1);
+                $("#portfolio div").not("." + selectedClass).fadeOut();
+                setTimeout(function () {
+                    $("." + selectedClass).fadeIn();
+                    $("#portfolio").fadeTo(50, 1);
+                }, 500);
+
+            });
+        });
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+        }
+
+    </script>
+      <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            function getParameterByName(name, url) {
+                if (!url) url = window.location.href;
+                name = name.replace(/[\[\]]/g, '\\$&');
+                var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+                    results = regex.exec(url);
+                if (!results) return null;
+                if (!results[2]) return '';
+                return decodeURIComponent(results[2].replace(/\+/g, ' '));
+            }
+
+            var productName = getParameterByName('name');
+            var productPrice = getParameterByName('price');
+            var productImage = getParameterByName('image');
+            var productDescription = getParameterByName('description');
+
+            document.getElementById('name').innerText = productName;
+            var image = document.getElementById('image');
+            image.src = productImage;
+            document.getElementById('price').innerText = productPrice + ".00$";
+            document.getElementById('description').innerText = productDescription;
+            document.getElementById('total').innerText = productPrice + ".00$";
+            var priceUpdate = productPrice;
+            var quantity = document.getElementById('quantity');
+            document.getElementById('plus').addEventListener("click", function () {
+                document.getElementById('total').innerText = priceUpdate * Math.max(parseInt(quantity.value) + 1, 1) + ".00$";
+
+            });
+            var quantity = document.getElementById('quantity');
+            document.getElementById('minus').addEventListener("click", function () {
+                document.getElementById('total').innerText = priceUpdate * Math.max(parseInt(quantity.value) - 1, 1) + ".00$";
+
+            });
+        });
+</script>
+    <script src="~/js/search.js"></script>
+</body>
+
+</html>
